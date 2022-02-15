@@ -1,0 +1,10 @@
+.product-details{
+    flex: 0 0 70%; 
+}
+.product-buy{
+    flex: 0 0 30%;
+    /* border: 2px solid; */
+}
+.product-buy div{
+    flex: 0 0 33%;
+}
